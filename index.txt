@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
+    <title></title>
+</head>
+
+<body>
+    <center>
+        <div class="container">
+            <div class="checkOut">
+                <p> <b>Checkout</b></p>
+                <div class="checkOut-text">
+                    <p>Shipping </p>
+                    <p>/</p>
+                    <p><b>Payment Method </b></p>
+                    <p>/</p>
+                    <p>Confirmation</p>
+                </div>
+                <div class="exit-btn">
+                    <i class="fas fa-times exit-icon"></i>
+                </div>
+            </div>
+            <hr>
+            <div class="payment">
+            <p>Payment Block</p>
+            <div class="card-block"><p>Card Block</p></div>
+            </div>
+        </div>
+    </center>
+</body>
+
+</html>
